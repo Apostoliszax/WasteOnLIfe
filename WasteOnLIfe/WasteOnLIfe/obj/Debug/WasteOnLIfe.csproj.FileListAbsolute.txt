@@ -1,0 +1,11 @@
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\bin\Debug\WasteOnLIfe.exe.config
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\bin\Debug\WasteOnLIfe.exe
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\bin\Debug\WasteOnLIfe.pdb
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.csprojAssemblyReference.cache
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.Properties.Resources.resources
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.csproj.GenerateResource.cache
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.csproj.CoreCompileInputs.cache
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.exe
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.pdb
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.WastedOnLife.resources
+C:\Users\Apostolis\source\repos\WasteOnLIfe\WasteOnLIfe\obj\Debug\WasteOnLIfe.Form1.resources
